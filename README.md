@@ -6,8 +6,8 @@ A responsive React + Redux application to manage widgets under multiple dashboar
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the deployed site](https://your-deployed-url.netlify.app)  
-> (Replace with actual URL after deployment)
+👉 [Click here to view the deployed site](https://6814d415652249210110efc6--tangerine-alfajores-42bcf4.netlify.app/)  
+
 
 ---
 
@@ -60,8 +60,8 @@ src/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/dashboard-widget-manager.git
-cd dashboard-widget-manager
+git clone https://github.com/Vrundali-patil1/dashboard-widget-manager.git
+cd assignment
 
 # 2. Install dependencies
 npm install
@@ -70,4 +70,4 @@ npm install
 npm start
 
 # 4. Open in browser
-Visit http://localhost:3000
+Visit http://localhost:3001
