@@ -6,7 +6,8 @@ A responsive React + Redux application to manage widgets under multiple dashboar
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the deployed site](dashboard-widget-manager.netlify.app)  
+👉 🔗 [Live Site](https://dashboard-widget-manager.netlify.app)
+  
 
 
 ---
